@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "name": "Ámsterdam, Holanda",
+            "image": "https://media.traveler.es/photos/61375f04ea50dbd37eade9a7/master/w_2580%2Cc_limit/213200.jpg"
+        },
+        {
+            "name": "Barcelona, España",
+            "image": "https://media.traveler.es/photos/61375f03ba2a75fcba4bdd3b/master/w_2580%2Cc_limit/213172.jpg"
+        },
+        {
+            "name": "Beijing, China",
+            "image": "https://media.traveler.es/photos/61375f03ea50dbd37eade9a3/master/w_2580%2Cc_limit/213176.jpg"
+        }
+    ]
+}

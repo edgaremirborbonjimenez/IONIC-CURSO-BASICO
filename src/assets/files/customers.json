@@ -1,0 +1,22 @@
+{"data":[
+    {
+    "name": "Finn",
+    "state": "Connect",
+    "description": "I have a degree un Software Engineering",
+    "image": "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/avatar-facebook-2632445.jpg?tf=1920x"       
+    },
+    {
+        "name": "Jake",
+        "state": "Connect",
+        "description": "I have a degree un Software Engineering",
+        "image": "https://cdn2.excelsior.com.mx/media/inside-the-note/pictures/2020/06/03/edwin.jpg"       
+        },
+        {
+
+            "name": "Fionna",
+            "state": "Connect",
+            "description": "I have a degree un Software Engineering",
+            "image": "https://cdn2.excelsior.com.mx/media/styles/image800x600/public/pictures/2020/06/03/2372863.jpg"       
+            }
+]
+}

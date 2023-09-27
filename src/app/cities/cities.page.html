@@ -1,0 +1,16 @@
+<ion-header [translucent]="true">
+  <ion-toolbar color="mycolor">
+    <ion-title color="mycolor">Cities</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-row>
+    <ion-col sizeLg="6" sizeMd="6" sizeXs="12" *ngFor="let city of cities">
+      <ion-card (click)="presentAlert2()">
+        <img src={{city.image}}>
+        <div class="card-title">{{city.name}}</div>
+      </ion-card>
+    </ion-col>
+  </ion-row>
+</ion-content>
